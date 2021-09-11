@@ -1,3 +1,3 @@
 # AutoEncoders
 
-The Juputer Notebook is self-explanatory.
+The Juputer Notebooks are self-explanatory.
